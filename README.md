@@ -1,4 +1,4 @@
->My name is Ilirjan, I'm a web developer with 3 years of experience. I have developed and maintained complex web applications using PHP, Laravel, MySQL, React Js, and JavaScript along with various other technologies. I started my first job as a programmer when I was 18 years old. Currently, I continue to work as a back-end developer in a company based in Albania. I have gained good experience during these 3 years of work and I still continue to learn even more to become more professional.
+>My name is Ilirjan, I'm a web developer with 4 years of experience. I have developed and maintained complex web applications using PHP, Laravel, MySQL, React Js, and JavaScript along with various other technologies. I started my first job as a programmer when I was 18 years old. Currently, I continue to work as a back-end developer in a company based in Albania. I have gained good experience during these 3 years of work and I still continue to learn even more to become more professional.
 
 ## Tools & Technologies
 
