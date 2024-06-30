@@ -1,37 +1,43 @@
->My name is Ilirjan, I'm a web developer with 4 years of experience. I have developed and maintained complex web applications using PHP, Laravel, MySQL, React Js, and JavaScript along with various other technologies. I started my first job as a programmer when I was 18 years old. Currently, I continue to work as a back-end developer in a company based in Albania. I have gained good experience during these 4 years of work and I still continue to learn even more to become more professional.
+## Ilirjan
 
-## Tools & Technologies
+##### Hello! I'm Ilirjan, a Senior Software Engineer with a passion for building impactful software solutions. With six years of experience, I've honed my skills in backend and frontend development, specializing in crafting scalable and efficient systems.
 
-* Programming languages
+## About me 
+>Building software is more than just writing code; it's about creating solutions that make a difference. Throughout my career, I've developed over 20 software applications across various industries including healthcare, education, fintech, and aviation. Some of my key projects include comprehensive ERP systems and fintech solutions using microservices, digital libraries, and CRM systems for airlines. As a senior developer, I specialize in using Laravel for backend development and React.js for frontend development, but I'm also skilled in a wide range of other technologies and frameworks.
+
+
+## Core Technologies
+
+* **Programming languages**
   * PHP
   * JavaScript
   * HTML,CSS/SCSS
   * c++ / Java  / (For school purposes only)
-* Frameworks & Libraries
+* **Frameworks & Libraries**
   * Laravel
   * NodeJS & Express Js
   * React Js
+  * Vue Js
   * JQuery,Bootstrap,ajax
-* Databases 
+* **Databases** 
   * MySQL
   * PostgreSQL
   * MongoDB
-  * SQL 
+  * Redis
+* **Cloud & DevOps**
+   * AWS (EC2, S3)
+   * Docker
+   * Linux OS
+   * VPS
 
-## Industry Knowledge
-  * Web Development
-  * Web Applications
-  * Software Development
-  * Object-Oriented Programming (OOP)
-  * Project Planning
+## Professional Skills
+  *  **Software Development** : I am skilled at both frontend and backend development and can handle full-stack projects smoothly.
+  *  **Microservices Architecture** :  Experienced in building and maintaining scalable microservice architectures.
+  *  **Industry Knowledge** : Proficient in web development, software development, object-oriented programming (OOP), and project planning.
+  *  **Leadership** : Capable of leading teams and projects to successful completion.
   
-## Other Skills
-  * Full-Stack Development
-  * Back-End Web Development
-  * API Development
-  * Web Application Development
+## Connect With Me
+I'm always open to discussing new technologies and potential collaborations. If you're looking for a dedicated software engineer who brings both creativity and technical expertise to the table, feel free to connect with me.
 
- 
- 
-> I'm more focused on **back-end development**, I also work as a backend developer, but I can do both front-end and back-end.
+> I focus mainly on **back-end** development but am capable in both **front-end and back-end** roles.
 
